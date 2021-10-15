@@ -1,8 +1,6 @@
 package com.java.core.eventmanagement.dto;
 
-public class Venue {
-    public long id;
-    public String name;
+public class Venue extends EmBase{
     public String description;
     public String streetAddress;
     public String city;
