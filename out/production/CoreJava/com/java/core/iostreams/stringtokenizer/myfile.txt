@@ -1,0 +1,9 @@
+ * Constructs a string tokenizer for the specified string. The
+     * characters in the {@code delim} argument are the delimiters
+     * for separating tokens. Delimiter characters themselves will not
+     * be treated as tokens.
+     * <p>
+     * Note that if {@code delim} is {@code null}, this constructor does
+     * not throw an exception. However, trying to invoke other methods on the
+     * resulting {@code StringTokenizer} may result in a
+     * {@code NullPointerException}.
