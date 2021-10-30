@@ -1,5 +1,9 @@
 package com.java.core.collection.comparator;
 
+/**
+ Comparable is part of pojo class ie pojo class implements comparable
+ here we need to override the compare to method which takes single argument
+ */
 public class Employee implements Comparable<Employee> {
     private int id;
     private String name;
