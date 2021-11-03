@@ -8,6 +8,7 @@ String[] projects;
     }
 
     @Override
+    @Deprecated
     protected void work() {
         super.work();
         System.out.println("Managers projects: ");
