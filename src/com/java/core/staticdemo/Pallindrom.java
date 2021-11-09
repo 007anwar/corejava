@@ -2,7 +2,7 @@ package com.java.core.staticdemo;
 
 public class Pallindrom {
     public static void main(String[] args) {
-checkPallindrom("madam");
+checkPallindrom("pallindrom");
     }
 
 

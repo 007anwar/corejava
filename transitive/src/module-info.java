@@ -1,0 +1,3 @@
+module transitive {
+   requires  hospital;
+}
