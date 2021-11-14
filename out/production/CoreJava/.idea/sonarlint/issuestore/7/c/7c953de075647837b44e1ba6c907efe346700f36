@@ -1,0 +1,19 @@
+
+J
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8åÙÍ÷Ğ/
+G
+java:S1905".Remove this unnecessary cast to "HttpRequest".(ÙÔŒÖÿÿÿÿÿ
+X
+java:S2147"DCombine this catch with the one at line 44, which has the same body.(ä ¹€
+V
+java:S1128"6Remove this unused import 'java.net.http.HttpHeaders'.(Ş—Š™ûÿÿÿÿ8åÙÍ÷Ğ/
+Z
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+U
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ˆ«¶
+X
+java:S2147"DCombine this catch with the one at line 44, which has the same body.(óûìœ
+Z
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ò­ú½ûÿÿÿÿ
+K
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8åÙÍ÷Ğ/

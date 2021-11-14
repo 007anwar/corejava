@@ -1,0 +1,5 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¯‘üÿÿÿÿ
+’
+java:S1130"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(âÌ±×ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ ¿–øÿÿÿÿ

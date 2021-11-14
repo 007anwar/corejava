@@ -1,0 +1,13 @@
+
+_
+java:S2147"DCombine this catch with the one at line 44, which has the same body.(óûìœ8 ¥åöĞ/
+N
+java:S1905".Remove this unnecessary cast to "HttpRequest".(ÙÔŒÖÿÿÿÿÿ8şÍèöĞ/
+a
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ò­ú½ûÿÿÿÿ8½êˆ÷Ğ/
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ìßöĞ/
+_
+java:S2147"DCombine this catch with the one at line 44, which has the same body.(ä ¹€8“ìßöĞ/
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ˆ«¶8Ô®èöĞ/
